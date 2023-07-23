@@ -1,4 +1,3 @@
-
 # keep track of common sequences of os between 1 and 2
 # - if there is only 1 person given for whatever reason, print the longest sequence of os present
 # check if any of those sequences exist in 3
@@ -32,3 +31,26 @@ oxooooooooxooox
 3[5:9] = 4[5:9]
 4[5:9] = 5[5:9]
 """
+
+def count_matching_positions(*strings):
+    if not strings:
+        raise ValueError("No strings provided for comparison.")
+
+    length = len(strings[0])
+    count = 0
+
+    for chars_at_same_index in zip(*strings):
+        if len(set(chars_at_same_index)) == 1:
+            count += 1
+
+    return count
+
+# Example usage:
+string1 = "xooox"
+string2 = "oooxx"
+string3 = "xooox"
+
+result = count_matching_positions(string1, string2, string3)
+print(result)  # Output: 2
+
+
