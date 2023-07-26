@@ -40,3 +40,7 @@ I was stuck on this problem for a long time, but I found out that the solution w
 Mr. Perfectly Fine: https://codeforces.com/contest/1829/problem/C
 
 I put the min functions in the second loop by accident and got Time Limit Exceeded. I moved them out of it and got accepted :D
+
+Hotelier: https://codeforces.com/problemset/problem/1200/A
+
+I was stuck on this for a long time, too. The issue was with how I handled cases where all of the rooms would be full. Glad I finally managed to fix the issue!
