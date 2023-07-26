@@ -35,3 +35,8 @@ I solved Problem B from this contest as an ASPC problem.
 Decorum Sensing (link may not open for non-NOI.PH participants): https://codeforces.com/group/Sw3sdIlMPV/contest/360239/problem/D
 
 I was stuck on this problem for a long time, but I found out that the solution was simpler than I expected.
+
+# July 26
+Mr. Perfectly Fine: https://codeforces.com/contest/1829/problem/C
+
+I put the min functions in the second loop by accident and got Time Limit Exceeded. I moved them out of it and got accepted :D
