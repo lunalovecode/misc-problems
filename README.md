@@ -44,3 +44,14 @@ I put the min functions in the second loop by accident and got Time Limit Exceed
 Hotelier: https://codeforces.com/problemset/problem/1200/A
 
 I was stuck on this for a long time, too. The issue was with how I handled cases where all of the rooms would be full. Glad I finally managed to fix the issue!
+
+# July 27
+Crane and Turtle: https://atcoder.jp/contests/abc170/tasks/abc170_b
+
+I overestimated the difficulty of this problem. I thought, "No, it can't be that simple." And then it turned out to be that simple.
+
+Minesweeper: https://atcoder.jp/contests/abc075/tasks/abc075_b
+
+When will I ever learn my lesson about overestimating a problem's difficulty?
+
+Valid Sudoku: https://codeforces.com/gym/102697/problem/040
