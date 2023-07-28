@@ -1,27 +1,22 @@
-# July 17
-Love Story: https://codeforces.com/contest/1829/problem/A
+# July 27
+Crane and Turtle: https://atcoder.jp/contests/abc170/tasks/abc170_b
 
-Blank Space: https://codeforces.com/contest/1829/problem/B
+I overestimated the difficulty of this problem. I thought, "No, it can't be that simple." And then it turned out to be that simple.
 
-# July 18
-Staircase: https://www.hackerrank.com/challenges/staircase/problem
+Minesweeper: https://atcoder.jp/contests/abc075/tasks/abc075_b
 
-Eye and Identity: https://www.hackerrank.com/challenges/np-eye-and-identity/problem
+When will I ever learn my lesson about overestimating a problem's difficulty?
 
-# July 21
-Soldier and Bananas: https://codeforces.com/contest/546/problem/A
+Valid Sudoku: https://codeforces.com/gym/102697/problem/040
 
-Polycarp and the Day of Pi: https://codeforces.com/contest/1790/problem/A
+# July 26
+Mr. Perfectly Fine: https://codeforces.com/contest/1829/problem/C
 
-# July 22
-To My Critics: https://codeforces.com/contest/1850/problem/A
+I put the min functions in the second loop by accident and got Time Limit Exceeded. I moved them out of it and got accepted :D
 
-Ten Words of Wisdom: https://codeforces.com/contest/1850/problem/B
+Hotelier: https://codeforces.com/problemset/problem/1200/A
 
-# July 23
-Word on the Paper: https://codeforces.com/contest/1850/problem/C
-
-Matrix Rotation: https://codeforces.com/contest/1772/problem/B
+I was stuck on this for a long time, too. The issue was with how I handled cases where all of the rooms would be full. Glad I finally managed to fix the issue!
 
 # July 24
 A+B?: https://codeforces.com/contest/1772/problem/A
@@ -36,22 +31,27 @@ Decorum Sensing (link may not open for non-NOI.PH participants): https://codefor
 
 I was stuck on this problem for a long time, but I found out that the solution was simpler than I expected.
 
-# July 26
-Mr. Perfectly Fine: https://codeforces.com/contest/1829/problem/C
+# July 23
+Word on the Paper: https://codeforces.com/contest/1850/problem/C
 
-I put the min functions in the second loop by accident and got Time Limit Exceeded. I moved them out of it and got accepted :D
+Matrix Rotation: https://codeforces.com/contest/1772/problem/B
 
-Hotelier: https://codeforces.com/problemset/problem/1200/A
+# July 22
+To My Critics: https://codeforces.com/contest/1850/problem/A
 
-I was stuck on this for a long time, too. The issue was with how I handled cases where all of the rooms would be full. Glad I finally managed to fix the issue!
+Ten Words of Wisdom: https://codeforces.com/contest/1850/problem/B
 
-# July 27
-Crane and Turtle: https://atcoder.jp/contests/abc170/tasks/abc170_b
+# July 21
+Soldier and Bananas: https://codeforces.com/contest/546/problem/A
 
-I overestimated the difficulty of this problem. I thought, "No, it can't be that simple." And then it turned out to be that simple.
+Polycarp and the Day of Pi: https://codeforces.com/contest/1790/problem/A
 
-Minesweeper: https://atcoder.jp/contests/abc075/tasks/abc075_b
+# July 18
+Staircase: https://www.hackerrank.com/challenges/staircase/problem
 
-When will I ever learn my lesson about overestimating a problem's difficulty?
+Eye and Identity: https://www.hackerrank.com/challenges/np-eye-and-identity/problem
 
-Valid Sudoku: https://codeforces.com/gym/102697/problem/040
+# July 17
+Love Story: https://codeforces.com/contest/1829/problem/A
+
+Blank Space: https://codeforces.com/contest/1829/problem/B
