@@ -1,3 +1,12 @@
+# July 28
+Escalator Conversations: https://codeforces.com/contest/1851/problem/A
+
+I am intimidated by problems with that much input given for the sample case.
+
+Rudolph and Tic-Tac-Toe: https://codeforces.com/contest/1846/problem/B
+
+I've noticed a relatively common theme with Codeforces problems: [X] and [Y] where [X] is someone's name and [Y] is an activity. Huh.
+
 # July 27
 Crane and Turtle: https://atcoder.jp/contests/abc170/tasks/abc170_b
 
