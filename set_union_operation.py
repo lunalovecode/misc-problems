@@ -1,0 +1,6 @@
+e = int(input())
+english_subscriptions = set([int(x) for x in input().split()])
+f = int(input())
+french_subscriptions = set([int(x) for x in input().split()])
+all_subscriptions = english_subscriptions.union(french_subscriptions)
+print(len(all_subscriptions))

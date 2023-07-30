@@ -1,3 +1,14 @@
+# July 30
+Cream Puff: https://atcoder.jp/contests/abc180/tasks/abc180_c
+
+I'm proud to say that I was able to move this out of the unfinished-problems folder!
+
+Double Helix: https://atcoder.jp/contests/abc122/tasks/abc122_a
+
+Set .union() Operation: https://www.hackerrank.com/challenges/py-set-union/problem
+
+Okay, I was in a rush to meet 3 problems.
+
 # July 28
 Escalator Conversations: https://codeforces.com/contest/1851/problem/A
 

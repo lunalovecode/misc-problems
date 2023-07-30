@@ -14,7 +14,10 @@ def diff_between_parities(lst):
             odd += 1
             patt.append("O")
 
-    return "YES" if (not ((len(set(patt[::2])) == 1) and (len(set(patt[1::2])) == 1)) or len(patt) == 1) else "NO"
+    if (len(patt) == 1 or abs(even - odd) <= 1) or (len(set(patt[::2])) == 1) and (len(set(patt[1::2])) == 1):
+        return "YES"
+    else:
+        return "NO"
 
 t = int(input())
 res = []
