@@ -1,3 +1,8 @@
+# Write and Erase
+https://atcoder.jp/contests/abc073/tasks/abc073_c
+
+9 AC, 2 TLE. What.
+
 # Parity Sort
 https://codeforces.com/contest/1851/problem/B
 

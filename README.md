@@ -1,3 +1,10 @@
+# July 31
+Gacha: https://atcoder.jp/contests/abc164/tasks/abc164_c
+
+Sheep and Wolves: https://atcoder.jp/contests/abc164/tasks/abc164_a
+
+Sum and Prod: https://www.hackerrank.com/challenges/np-sum-and-prod/problem
+
 # July 30
 Cream Puff: https://atcoder.jp/contests/abc180/tasks/abc180_c
 
