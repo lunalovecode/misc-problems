@@ -1,3 +1,10 @@
+# August 2
+Mean, Var, and Std: https://www.hackerrank.com/challenges/np-mean-var-and-std/problem
+
+Haiku: https://atcoder.jp/contests/abc051/tasks/abc051_a
+
+Josephus Problem: https://cses.fi/problemset/task/2162
+
 # July 31
 Gacha: https://atcoder.jp/contests/abc164/tasks/abc164_c
 
