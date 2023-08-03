@@ -1,3 +1,10 @@
+# August 3
+Four Digits: https://atcoder.jp/contests/abc222/tasks/abc222_a
+
+Failing Grade: https://atcoder.jp/contests/abc222/tasks/abc222_b
+
+Dot and Cross: https://www.hackerrank.com/challenges/np-dot-and-cross/problem
+
 # August 2
 Mean, Var, and Std: https://www.hackerrank.com/challenges/np-mean-var-and-std/problem
 
