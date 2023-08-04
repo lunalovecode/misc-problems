@@ -3,6 +3,10 @@ Chat Room: https://codeforces.com/problemset/problem/58/A
 
 Inner and Outer: https://www.hackerrank.com/challenges/np-inner-and-outer/problem
 
+Three Poles: https://atcoder.jp/contests/abc058/tasks/abc058_a
+
+(Password): https://atcoder.jp/contests/abc058/tasks/abc058_b
+
 # August 3
 Four Digits: https://atcoder.jp/contests/abc222/tasks/abc222_a
 
