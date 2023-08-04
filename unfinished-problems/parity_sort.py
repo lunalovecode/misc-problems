@@ -2,6 +2,7 @@
 # or if all items have the same parity
 # or if there is only one item
 # print "YES"
+# we can sort, we can shuffle, we can...
 
 def diff_between_parities(lst):
     even, odd = 0, 0

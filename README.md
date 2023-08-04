@@ -1,3 +1,8 @@
+# August 4
+Chat Room: https://codeforces.com/problemset/problem/58/A
+
+Inner and Outer: https://www.hackerrank.com/challenges/np-inner-and-outer/problem
+
 # August 3
 Four Digits: https://atcoder.jp/contests/abc222/tasks/abc222_a
 

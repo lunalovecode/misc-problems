@@ -1,3 +1,6 @@
+# Median Updates
+https://www.hackerrank.com/challenges/median/problem
+
 # Josephus Problem II
 https://cses.fi/problemset/task/2163
 
