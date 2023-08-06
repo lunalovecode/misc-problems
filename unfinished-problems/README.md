@@ -1,3 +1,9 @@
+# Rotation Matching
+https://codeforces.com/problemset/problem/1365/C
+
+# Flip A
+https://codeforces.com/gym/444888/problem/A
+
 # Median Updates
 https://www.hackerrank.com/challenges/median/problem
 

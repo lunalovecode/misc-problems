@@ -1,3 +1,15 @@
+# August 6
+To Be Saikyo: https://atcoder.jp/contests/abc313/tasks/abc313_a
+
+Exceptions: https://www.hackerrank.com/challenges/exceptions/problem
+
+Symmetric Difference: https://www.hackerrank.com/challenges/symmetric-difference/problem
+
+# August 5
+Polynomials: https://www.hackerrank.com/challenges/np-polynomials/problem
+
+String Validators: https://www.hackerrank.com/challenges/string-validators/problem
+
 # August 4
 Chat Room: https://codeforces.com/problemset/problem/58/A
 
