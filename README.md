@@ -1,3 +1,11 @@
+# August 7
+On another note, I found this topic on HackerRank!
+Simple Array Sum: https://www.hackerrank.com/challenges/simple-array-sum/problem
+
+Extra Long Factorials: https://www.hackerrank.com/challenges/extra-long-factorials/problem
+
+Complete the Triplets: https://www.hackerrank.com/challenges/compare-the-triplets/problem
+
 # August 6
 To Be Saikyo: https://atcoder.jp/contests/abc313/tasks/abc313_a
 
