@@ -1,5 +1,15 @@
+# August 8
+Array Coloring: https://codeforces.com/contest/1857/problem/A
+
+I'm glad I found some insight for this problem early!
+
+Grading Students: https://www.hackerrank.com/challenges/grading/problem
+
+Breaking the Records: https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem
+
 # August 7
 On another note, I found this topic on HackerRank!
+
 Simple Array Sum: https://www.hackerrank.com/challenges/simple-array-sum/problem
 
 Extra Long Factorials: https://www.hackerrank.com/challenges/extra-long-factorials/problem
@@ -18,7 +28,7 @@ Polynomials: https://www.hackerrank.com/challenges/np-polynomials/problem
 
 String Validators: https://www.hackerrank.com/challenges/string-validators/problem
 
-# August 4
+# August 4 (Week 2 start)
 Chat Room: https://codeforces.com/problemset/problem/58/A
 
 Inner and Outer: https://www.hackerrank.com/challenges/np-inner-and-outer/problem
@@ -59,7 +69,7 @@ Set .union() Operation: https://www.hackerrank.com/challenges/py-set-union/probl
 
 Okay, I was in a rush to meet 3 problems.
 
-# July 28
+# July 28 (Week 1 start)
 Escalator Conversations: https://codeforces.com/contest/1851/problem/A
 
 I am intimidated by problems with that much input given for the sample case.
@@ -111,7 +121,7 @@ To My Critics: https://codeforces.com/contest/1850/problem/A
 
 Ten Words of Wisdom: https://codeforces.com/contest/1850/problem/B
 
-# July 21
+# July 21 (Week 0 start)
 Soldier and Bananas: https://codeforces.com/contest/546/problem/A
 
 Polycarp and the Day of Pi: https://codeforces.com/contest/1790/problem/A

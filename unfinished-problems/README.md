@@ -1,3 +1,12 @@
+# Append and Delete
+https://www.hackerrank.com/challenges/append-and-delete/problem
+
+# Strong Vertices
+https://codeforces.com/contest/1857/problem/D
+
+# Maximum Rounding
+https://codeforces.com/contest/1857/problem/B
+
 # Rotation Matching
 https://codeforces.com/problemset/problem/1365/C
 
