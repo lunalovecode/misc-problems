@@ -1,3 +1,18 @@
+# August 10 (advanced)
+A Very Big Sum: https://www.hackerrank.com/challenges/a-very-big-sum/problem
+
+Diagonal Difference: https://www.hackerrank.com/challenges/diagonal-difference/problem
+
+Plus Minus: https://www.hackerrank.com/challenges/plus-minus/problem
+
+# August 9 (advanced for Week 3)
+
+Star: https://atcoder.jp/contests/abc192/tasks/abc192_a
+
+uNrEaDaBlE sTrInG: https://atcoder.jp/contests/abc192/tasks/abc192_b
+
+Mini-Max Sum
+
 # August 8
 Array Coloring: https://codeforces.com/contest/1857/problem/A
 
