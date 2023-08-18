@@ -1,3 +1,10 @@
+# August 18 (Week 4 start)
+Designer PDF Viewer: https://www.hackerrank.com/challenges/designer-pdf-viewer/problem
+
+HackerRank in a String: https://www.hackerrank.com/challenges/hackerrank-in-a-string/problem
+
+Two Strings: https://www.hackerrank.com/challenges/two-strings/problem
+
 # August 10 (advanced)
 A Very Big Sum: https://www.hackerrank.com/challenges/a-very-big-sum/problem
 
@@ -11,7 +18,7 @@ Star: https://atcoder.jp/contests/abc192/tasks/abc192_a
 
 uNrEaDaBlE sTrInG: https://atcoder.jp/contests/abc192/tasks/abc192_b
 
-Mini-Max Sum
+Mini-Max Sum: https://www.hackerrank.com/challenges/mini-max-sum/problem
 
 # August 8
 Array Coloring: https://codeforces.com/contest/1857/problem/A

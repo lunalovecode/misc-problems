@@ -1,24 +1,27 @@
-t = int(input())
-a = []
+# t = int(input())
 
 def rnd(n):
-    maximum = 0
-    a = n
-    for i in range(len(str((n))) + 2):
-        if a > maximum:
-            maximum = a
+    a = [*n]
+    # largest_leftmost_digit = "-1"
+    # find leftmost digit >= 5
+    ind = -1
+    for d in a:
+        if int(d) >= 5:
+            # largest_leftmost_digit = digit
+            ind = a.index(d)
+            break
+    
+    
+    # add 1 to the digit to the left
+    # replace rightmost digits with 0
+    
 
-        if str(n)[-1] == "5":
-            a = round(a + 1, i * -1)
-        else: 
-            a = round(a, i * -1)
+    # return "".join(a)
 
-    return maximum
-
+# print(rnd("20445"))
+a = rnd("20445")
+'''
 for _ in range(t):
     n = input()
-    num = int(n)
-    a.append(rnd(num))
-
-for b in a:
-    print(b)
+    a.append(n)
+'''
