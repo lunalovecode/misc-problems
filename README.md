@@ -1,3 +1,10 @@
+# August 19
+Birthday Cake Candles: https://www.hackerrank.com/challenges/birthday-cake-candles/problem
+
+The Time in Words: https://www.hackerrank.com/challenges/the-time-in-words/problem
+
+Totally Not Robots: https://www.hackerrank.com/contests/noi-ph-practice-page/challenges/totally-not-robots
+
 # August 18 (Week 4 start)
 Designer PDF Viewer: https://www.hackerrank.com/challenges/designer-pdf-viewer/problem
 
@@ -13,7 +20,6 @@ Diagonal Difference: https://www.hackerrank.com/challenges/diagonal-difference/p
 Plus Minus: https://www.hackerrank.com/challenges/plus-minus/problem
 
 # August 9 (advanced for Week 3)
-
 Star: https://atcoder.jp/contests/abc192/tasks/abc192_a
 
 uNrEaDaBlE sTrInG: https://atcoder.jp/contests/abc192/tasks/abc192_b
