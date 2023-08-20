@@ -1,3 +1,12 @@
+# August 20
+Find Digits: https://www.hackerrank.com/challenges/find-digits/problem
+
+Lotto: https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=382
+
+The most difficult thing about this problem was learning how to accept indefinite input.
+
+Angry Professor: https://www.hackerrank.com/challenges/angry-professor/problem
+
 # August 19
 Birthday Cake Candles: https://www.hackerrank.com/challenges/birthday-cake-candles/problem
 
