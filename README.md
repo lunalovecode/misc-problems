@@ -1,3 +1,10 @@
+# August 21
+Viral Advertising: https://www.hackerrank.com/challenges/strange-advertising/problem
+
+Halloween Sale: https://www.hackerrank.com/challenges/halloween-sale/problem
+
+Beautiful Days: https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem
+
 # August 20
 Find Digits: https://www.hackerrank.com/challenges/find-digits/problem
 
