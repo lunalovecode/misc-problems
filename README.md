@@ -1,3 +1,10 @@
+# August 22
+Migratory Birds: https://www.hackerrank.com/challenges/migratory-birds/problem
+
+Time Conversion: https://www.hackerrank.com/challenges/time-conversion/problem
+
+Cats and a Mouse: https://www.hackerrank.com/challenges/cats-and-a-mouse/problem
+
 # August 21
 Viral Advertising: https://www.hackerrank.com/challenges/strange-advertising/problem
 
