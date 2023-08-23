@@ -2,12 +2,12 @@
 
 def rnd(n):
     a = [*n]
-    # largest_leftmost_digit = "-1"
+    largest_leftmost_digit = "-1"
     # find leftmost digit >= 5
     ind = -1
     for d in a:
         if int(d) >= 5:
-            # largest_leftmost_digit = digit
+            largest_leftmost_digit = d
             ind = a.index(d)
             break
     
