@@ -1,12 +1,3 @@
-def is_subsequence(subsequence, string):
-    n, m, i, j = len(subsequence), len(string), 0, 0
-    while i < n and j < m:
-        if subsequence[i] == string[j]:
-            i += 1
-        j += 1
-    
-    return i == n
-
 t = int(input())
 for _ in range(t):
     carpet = []
@@ -15,16 +6,25 @@ for _ in range(t):
     for _ in range(n):
         carpet.append(input())
     cols = ["".join([carpet[r][c] for r in range(n)]) for c in range(m)]
-    in_rows = False
-    ans = "NO"
-    for row in carpet:
-        if is_subsequence("vika", row):
-            in_rows = True
-    if in_rows:
-        ans = "YES"
-    else:
-        for col in cols:
-            if is_subsequence("vika", col):
-                ans = "YES"
+    col_nums = [-1, -1, -1, -1]
+    seen = [False, False, False, False]
+    i = 0
+    for col in cols:
+        if "v" in col and seen[0] == False:
+            col_nums[0] = i
+            seen[0] = True
+        elif "i" in col and seen[1] == False and seen[0] == True:
+            col_nums[1] = i
+            seen[1] = True
+        elif "k" in col and seen[2] == False and all(x == True for x in seen[:2]):
+            col_nums[2] = i
+            seen[2] = True
+        elif "a" in col and seen[3] == False and all(x == True for x in seen[:3]):
+            col_nums[3] = i
+            seen[3] = True
+        i += 1
 
-    print(ans)
+    
+    c2 = [*col_nums]
+    c2.sort()
+    print("YES" if -1 not in col_nums and col_nums == c2 else "NO")
