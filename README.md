@@ -1,3 +1,10 @@
+# August 25 (Week 5 started on August 24)
+Chocolate Feast: https://www.hackerrank.com/challenges/chocolate-feast/problem
+
+Utopian Tree: https://www.hackerrank.com/challenges/utopian-tree/problem
+
+I also tried solving Maximum Rounding (https://codeforces.com/contest/1857/problem/B) and Gift Carpet (https://codeforces.com/contest/1862/problem/A). However, Codeforces had some issues, so I'm not sure if they were correct.
+
 # August 23
 Day of the Programmer: https://www.hackerrank.com/challenges/day-of-the-programmer/problem
 
