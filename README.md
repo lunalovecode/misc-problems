@@ -1,3 +1,8 @@
+# August 26
+Gift Carpet: https://codeforces.com/contest/1862/problem/A
+
+The Hurdle Race: https://www.hackerrank.com/challenges/the-hurdle-race/problem
+
 # August 25 (Week 5 started on August 24)
 Chocolate Feast: https://www.hackerrank.com/challenges/chocolate-feast/problem
 
