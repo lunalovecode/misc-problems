@@ -1,3 +1,8 @@
+# August 27
+CamelCase: https://www.hackerrank.com/challenges/camelcase/problem
+
+Cavity: https://www.hackerrank.com/challenges/cavity-map/problem
+
 # August 26
 Gift Carpet: https://codeforces.com/contest/1862/problem/A
 
