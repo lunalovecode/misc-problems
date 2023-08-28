@@ -1,3 +1,10 @@
+# August 28
+Light day today.
+
+Funny String: https://www.hackerrank.com/challenges/funny-string/problem
+
+Strong Password: https://www.hackerrank.com/challenges/strong-password/problem
+
 # August 27
 CamelCase: https://www.hackerrank.com/challenges/camelcase/problem
 
