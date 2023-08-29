@@ -1,3 +1,8 @@
+# August 29
+Sales by Match (Sock Merchant): https://www.hackerrank.com/challenges/sock-merchant/problem
+
+Library Fine: https://www.hackerrank.com/challenges/library-fine/problem
+
 # August 28
 Light day today.
 
