@@ -1,3 +1,8 @@
+# August 30
+Marc's Cakewalk: https://www.hackerrank.com/challenges/marcs-cakewalk/problem
+
+Smart Number: https://www.hackerrank.com/challenges/smart-number/problem
+
 # August 29
 Sales by Match (Sock Merchant): https://www.hackerrank.com/challenges/sock-merchant/problem
 
