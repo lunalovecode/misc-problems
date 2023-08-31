@@ -22,7 +22,7 @@ def rnd(n):
         n[d] = 0
     
     if sum([1 for x in n if x >= 5]):
-        # What do you call this type of recursion again?
+        # replace this
         return rnd(n)
     else:
         return "".join([str(x) for x in n])
