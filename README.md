@@ -1,3 +1,10 @@
+# August 31 (extra for Week 6)
+Vacation Together: https://atcoder.jp/contests/abc311/tasks/abc311_b
+
+Another problem out of the unfinished-problems folder!
+
+Mars Exploration: https://www.hackerrank.com/challenges/mars-exploration/problem
+
 # August 30
 Marc's Cakewalk: https://www.hackerrank.com/challenges/marcs-cakewalk/problem
 
