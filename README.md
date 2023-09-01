@@ -1,3 +1,12 @@
+# September 1  (Week 6 start)
+3.14: https://atcoder.jp/contests/abc314/tasks/abc314_a
+
+Roulette: https://atcoder.jp/contests/abc314/tasks/abc314_b
+
+Rotate Colored Subsequence: https://atcoder.jp/contests/abc314/tasks/abc314_c
+
+I'm grateful that I didn't get TLE on that third one.
+
 # August 31 (extra for Week 6)
 Vacation Together: https://atcoder.jp/contests/abc311/tasks/abc311_b
 
