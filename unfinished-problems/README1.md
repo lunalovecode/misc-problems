@@ -48,9 +48,6 @@ I got 89 points. Not bad for what was essentially a brute force solution.
 # Find It!
 https://atcoder.jp/contests/abc311/tasks/abc311_c
 
-# Vacation Together
-https://atcoder.jp/contests/abc311/tasks/abc311_b
-
 # Premutation
 https://codeforces.com/contest/1790/problem/C
 

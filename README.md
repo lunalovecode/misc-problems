@@ -1,4 +1,14 @@
-# September 1  (Week 6 start)
+# September 4
+Preparing Olympiad: https://codeforces.com/problemset/problem/550/B
+
+To Three: https://atcoder.jp/contests/abc182/tasks/abc182_c
+
+# September 3
+Full Moon: https://atcoder.jp/contests/abc318/tasks/abc318_a
+
+Minimum Absolute Difference: https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array/problem
+
+# September 1 (Week 6 start)
 3.14: https://atcoder.jp/contests/abc314/tasks/abc314_a
 
 Roulette: https://atcoder.jp/contests/abc314/tasks/abc314_b
