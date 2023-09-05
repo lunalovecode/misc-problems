@@ -1,3 +1,10 @@
+# September 5
+Mark and Toys: https://www.hackerrank.com/challenges/mark-and-toys/problem
+
+Bill Division: https://www.hackerrank.com/challenges/bon-appetit/problem
+
+Gemstones: https://www.hackerrank.com/challenges/gem-stones/problem
+
 # September 4
 Preparing Olympiad: https://codeforces.com/problemset/problem/550/B
 
