@@ -1,3 +1,8 @@
+# September 6
+Pangrams: https://www.hackerrank.com/challenges/pangrams/problem
+
+Missing Numbers: https://www.hackerrank.com/challenges/missing-numbers/problem
+
 # September 5
 Mark and Toys: https://www.hackerrank.com/challenges/mark-and-toys/problem
 
