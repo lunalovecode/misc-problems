@@ -1,3 +1,8 @@
+# September 7
+Summing the N Series: https://www.hackerrank.com/challenges/summing-the-n-series/problem
+
+Number Groups: https://www.hackerrank.com/challenges/number-groups/problem
+
 # September 6
 Pangrams: https://www.hackerrank.com/challenges/pangrams/problem
 
