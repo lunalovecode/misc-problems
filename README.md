@@ -1,3 +1,8 @@
+# September 9 (Week 7 started on September 8)
+Sherlock and Divisors: https://www.hackerrank.com/challenges/sherlock-and-divisors/problem
+
+Connecting Towns: https://www.hackerrank.com/challenges/connecting-towns/problem
+
 # September 7
 Summing the N Series: https://www.hackerrank.com/challenges/summing-the-n-series/problem
 
