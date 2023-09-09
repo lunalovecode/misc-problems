@@ -3,6 +3,10 @@ Sherlock and Divisors: https://www.hackerrank.com/challenges/sherlock-and-diviso
 
 Connecting Towns: https://www.hackerrank.com/challenges/connecting-towns/problem
 
+Legendary Players: https://atcoder.jp/contests/abc319/tasks/abc319_a
+
+Measure: https://atcoder.jp/contests/abc319/tasks/abc319_b
+
 # September 7
 Summing the N Series: https://www.hackerrank.com/challenges/summing-the-n-series/problem
 
