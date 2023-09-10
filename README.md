@@ -1,3 +1,8 @@
+# September 10
+Bit Strings: https://cses.fi/problemset/task/1617
+
+Twiblr: https://atcoder.jp/contests/abc182/tasks/abc182_a
+
 # September 9 (Week 7 started on September 8)
 Sherlock and Divisors: https://www.hackerrank.com/challenges/sherlock-and-divisors/problem
 
