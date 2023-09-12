@@ -1,3 +1,8 @@
+# September 12
+Creating Strings: https://cses.fi/problemset/result/7069813/
+
+cAPS lOCK: https://codeforces.com/problemset/problem/131/A
+
 # September 11
 Relational Operator: https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2113
 
