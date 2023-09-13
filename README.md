@@ -1,5 +1,14 @@
+# September 13
+Constructing a Number: https://www.hackerrank.com/challenges/constructing-a-number/problem
+
+Maximum Draws: https://www.hackerrank.com/challenges/maximum-draws/problem
+
+Find the Point: https://www.hackerrank.com/challenges/find-point/problem
+
+Best Divisor: https://www.hackerrank.com/challenges/best-divisor/problem
+
 # September 12
-Creating Strings: https://cses.fi/problemset/result/7069813/
+Creating Strings: https://cses.fi/problemset/task/1622/
 
 cAPS lOCK: https://codeforces.com/problemset/problem/131/A
 
