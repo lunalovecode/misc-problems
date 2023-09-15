@@ -1,3 +1,8 @@
+# September 14
+Handshake: https://www.hackerrank.com/challenges/handshake/problem
+
+Filling Jars: https://www.hackerrank.com/challenges/filling-jars/problem
+
 # September 13
 Constructing a Number: https://www.hackerrank.com/challenges/constructing-a-number/problem
 
