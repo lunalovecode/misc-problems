@@ -1,4 +1,13 @@
-# September 14
+# September 16
+Points on a Line: https://www.hackerrank.com/challenges/points-on-a-line/problem
+
+Matrix Addition: https://www.hackerrank.com/challenges/linear-algebra-foundations-1/problem
+
+Matrix Subtraction: https://www.hackerrank.com/challenges/linear-algebra-foundations-1-matrix-subtraction/problem
+
+Matrix Multiplication: https://www.hackerrank.com/challenges/linear-algebra-foundations-3-matrix-multiplication/problem
+
+# September 15 (Week 8 start)
 Handshake: https://www.hackerrank.com/challenges/handshake/problem
 
 Filling Jars: https://www.hackerrank.com/challenges/filling-jars/problem
