@@ -1,3 +1,17 @@
+# September 18
+Matrix Multiplication 2: https://www.hackerrank.com/challenges/linear-algebra-foundations-4-matrix-multiplication/problem
+
+Combo Meal: https://www.hackerrank.com/challenges/combo-meal/problem
+
+Pythagorean Triple: https://www.hackerrank.com/challenges/pythagorean-triple/problem
+
+# September 17
+Minimum Height Triangle: https://www.hackerrank.com/challenges/lowest-triangle/problem
+
+Sum: https://codeforces.com/contest/1742/problem/A
+
+Increasing: https://codeforces.com/contest/1742/problem/B
+
 # September 16
 Points on a Line: https://www.hackerrank.com/challenges/points-on-a-line/problem
 
