@@ -1,3 +1,8 @@
+# September 19
+Marathon: https://codeforces.com/contest/1692/problem/A
+
+Where's the Bishop?: https://codeforces.com/contest/1692/problem/C
+
 # September 18
 Matrix Multiplication 2: https://www.hackerrank.com/challenges/linear-algebra-foundations-4-matrix-multiplication/problem
 
