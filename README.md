@@ -1,3 +1,10 @@
+# September 22 (Week 9 start)
+Leyland Number: https://atcoder.jp/contests/abc320/tasks/abc320_a
+
+Longest Palindrome: https://atcoder.jp/contests/abc320/tasks/abc320_b
+
+Closest Number: https://www.hackerrank.com/challenges/closest-number/problem
+
 # September 19
 Marathon: https://codeforces.com/contest/1692/problem/A
 
