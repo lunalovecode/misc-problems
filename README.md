@@ -1,3 +1,10 @@
+# September 23
+tcdr: https://atcoder.jp/contests/abc315/tasks/abc315_a
+
+Spell Check: https://codeforces.com/contest/1722/problem/A
+
+Colorblindness: https://codeforces.com/contest/1722/problem/B
+
 # September 22 (Week 9 start)
 Leyland Number: https://atcoder.jp/contests/abc320/tasks/abc320_a
 
