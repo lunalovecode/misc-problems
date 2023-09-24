@@ -1,3 +1,10 @@
+# September 24
+Codeforces Checking: https://codeforces.com/contest/1800/problem/A
+
+Following Directions: https://codeforces.com/contest/1800/problem/B
+
+Sherlock and Squares: https://www.hackerrank.com/challenges/sherlock-and-squares/problem
+
 # September 23
 tcdr: https://atcoder.jp/contests/abc315/tasks/abc315_a
 
