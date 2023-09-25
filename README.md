@@ -1,3 +1,10 @@
+# September 25
+Short Sort: https://codeforces.com/contest/1873/problem/A
+
+Good Kid: https://codeforces.com/contest/1873/problem/B
+
+Target Practice: https://codeforces.com/contest/1873/problem/C
+
 # September 24
 Codeforces Checking: https://codeforces.com/contest/1800/problem/A
 
