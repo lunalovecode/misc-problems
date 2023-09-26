@@ -1,3 +1,8 @@
+# September 26
+Compare T-Shirt Sizes: https://codeforces.com/contest/1741/problem/A
+
+Lucky?: https://codeforces.com/contest/1676/problem/A
+
 # September 25
 Short Sort: https://codeforces.com/contest/1873/problem/A
 
