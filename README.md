@@ -1,3 +1,10 @@
+# September 29 (Week 10 start)
+How Much Does Daytona Cost?: https://codeforces.com/contest/1878/problem/A
+
+Cypher: https://codeforces.com/contest/1703/problem/C
+
+Greedy Takahashi: https://atcoder.jp/contests/abc149/tasks/abc149_b
+
 # September 26
 Compare T-Shirt Sizes: https://codeforces.com/contest/1741/problem/A
 
