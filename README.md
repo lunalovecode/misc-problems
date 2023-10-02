@@ -1,9 +1,33 @@
+# October 2
+Equal Candies: https://codeforces.com/contest/1676/problem/B
+
+Most Similar Words: https://codeforces.com/contest/1676/problem/C
+
+Security: https://atcoder.jp/contests/abc131/tasks/abc131_a
+
+Four nested for loops. That's a new one. (The fourth is in the function.)
+
+Box: https://atcoder.jp/contests/abc180/tasks/abc180_a
+
+Already 2018: https://atcoder.jp/contests/abc085/tasks/abc085_a
+
+9 problems.
+
+# October 1
+Sum of Sum of Odds: https://noi.ph/tama-2023-practice-problems/ (Problem A)
+
+I somehow forgot that the integer division (//) operator was a thing 🙃
+
+That's a whole 4 problems. Wow!
+
 # September 29 (Week 10 start)
 How Much Does Daytona Cost?: https://codeforces.com/contest/1878/problem/A
 
 Cypher: https://codeforces.com/contest/1703/problem/C
 
 Greedy Takahashi: https://atcoder.jp/contests/abc149/tasks/abc149_b
+
+Starting the week off with 3 problems solved!
 
 # September 26
 Compare T-Shirt Sizes: https://codeforces.com/contest/1741/problem/A
