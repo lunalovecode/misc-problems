@@ -5,6 +5,8 @@ Various Distances: https://atcoder.jp/contests/abc180/tasks/abc180_b
 
 Your First Judge: https://atcoder.jp/contests/abc215/tasks/abc215_a
 
+12 problems!
+
 # October 2
 Equal Candies: https://codeforces.com/contest/1676/problem/B
 
