@@ -1,3 +1,10 @@
+# October 4
+One Card Poker: https://atcoder.jp/contests/abc054/tasks/abc054_a
+
+September 9: https://atcoder.jp/contests/abc073/tasks/abc073_a
+
+14 problems! 🎉🎉🎉
+
 # October 3
 Kagami Mochi: https://atcoder.jp/contests/abc085/tasks/abc085_b
 
