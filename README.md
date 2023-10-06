@@ -1,3 +1,18 @@
+# October 6
+Basketbology (Decision): https://codeforces.com/group/Sw3sdIlMPV/contest/360239/problem/B1
+
+Two years. It took me *two years* to figure it out.
+
+Are You Human?: https://codeforces.com/group/Sw3sdIlMPV/contest/354429/problem/A
+
+I guess not.
+
+Not a Weeb: https://codeforces.com/group/Sw3sdIlMPV/contest/398759/problem/C
+
+I hope my *senpai* is proud of me uwu
+
+I am so sorry that you had to read that, but I solved 3 problems.
+
 # October 4
 One Card Poker: https://atcoder.jp/contests/abc054/tasks/abc054_a
 
