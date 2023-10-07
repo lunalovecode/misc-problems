@@ -1,0 +1,1 @@
+print("EVENING SAVED" if int(input()) % 2 == 0 else "EVENING RUINED")

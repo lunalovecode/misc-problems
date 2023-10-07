@@ -1,3 +1,16 @@
+# October 7
+Peacekeeper: https://codeforces.com/group/Sw3sdIlMPV/contest/398759/problem/E
+
+L + ratio + you fell off + outskilled + 360 no-scoped
+
+Pizza Time: https://codeforces.com/group/Sw3sdIlMPV/contest/398759/problem/F
+
+*\*Italian intensifies\**
+
+Balarila 1: https://codeforces.com/group/Sw3sdIlMPV/contest/398759/problem/G
+
+That's one step towards Make Gawa This Program! A very small one, but a step nonetheless.
+
 # October 6
 Basketbology (Decision): https://codeforces.com/group/Sw3sdIlMPV/contest/360239/problem/B1
 
