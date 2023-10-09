@@ -1,3 +1,14 @@
+# October 9
+Water Displacement Method: https://codeforces.com/group/Sw3sdIlMPV/contest/398759/problem/D
+
+Forward Backward Induction: https://codeforces.com/group/Sw3sdIlMPV/contest/398759/problem/B
+
+Ordinals: https://codeforces.com/group/Sw3sdIlMPV/contest/398759/problem/H
+
+9 problems.
+
+I also solved the third subtask in Mod Powers! Does that count?
+
 # October 7
 Peacekeeper: https://codeforces.com/group/Sw3sdIlMPV/contest/398759/problem/E
 
