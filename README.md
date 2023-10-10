@@ -1,3 +1,18 @@
+# October 10
+Sudokudasai: https://codeforces.com/group/Sw3sdIlMPV/contest/398776/problem/L
+
+Art of the Deal: https://codeforces.com/group/Sw3sdIlMPV/contest/398759/problem/I
+
+Rooks Ahoy!: https://codeforces.com/group/Sw3sdIlMPV/contest/398776/problem/K
+
+Good Noodles: https://codeforces.com/group/Sw3sdIlMPV/contest/398776/problem/J
+
+Filter by First: https://codeforces.com/group/Sw3sdIlMPV/contest/398776/problem/I
+
+"our ancestors frown upon us"
+
+14 problems! 🎉🎉🎉
+
 # October 9
 Water Displacement Method: https://codeforces.com/group/Sw3sdIlMPV/contest/398759/problem/D
 
