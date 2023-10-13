@@ -1,3 +1,12 @@
+# October 13
+Baby's first C++ programs :D
+
+Say "Hello, World!" With C++ :https://www.hackerrank.com/challenges/cpp-hello-world/problem
+
+Input and Output: https://www.hackerrank.com/challenges/cpp-input-and-output/problem
+
+Basic Data Types: https://www.hackerrank.com/challenges/c-tutorial-basic-data-types/problem
+
 # October 10
 Sudokudasai: https://codeforces.com/group/Sw3sdIlMPV/contest/398776/problem/L
 
