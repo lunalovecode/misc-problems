@@ -7,6 +7,8 @@ Input and Output: https://www.hackerrank.com/challenges/cpp-input-and-output/pro
 
 Basic Data Types: https://www.hackerrank.com/challenges/c-tutorial-basic-data-types/problem
 
+3 problems.
+
 # October 10
 Sudokudasai: https://codeforces.com/group/Sw3sdIlMPV/contest/398776/problem/L
 
