@@ -1,3 +1,12 @@
+# October 14
+Conditional Statements: https://www.hackerrank.com/challenges/c-tutorial-conditional-if-else/problem
+
+For Loop: https://www.hackerrank.com/challenges/c-tutorial-for-loop/problem
+
+Functions: https://www.hackerrank.com/challenges/c-tutorial-functions/problem
+
+I got sick, so my brain isn't braining. But anyway, that's 6 problems!
+
 # October 13
 Baby's first C++ programs :D
 
