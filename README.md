@@ -1,3 +1,8 @@
+# October 17
+Mod Powers: https://noi.ph/tama-2023-practice-problems/ (Problem B)
+
+7 problems. I probably won't make the full 14 at this rate, but I tried.
+
 # October 14
 Conditional Statements: https://www.hackerrank.com/challenges/c-tutorial-conditional-if-else/problem
 
