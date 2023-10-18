@@ -1,3 +1,8 @@
+# October 18
+Summer SEMs: https://noi.ph/tama-2023-practice-problems/ (Problem C)
+
+8 problems.
+
 # October 17
 Mod Powers: https://noi.ph/tama-2023-practice-problems/ (Problem B)
 
