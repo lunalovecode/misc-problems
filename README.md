@@ -1,3 +1,8 @@
+# October 19
+Arrays Introduction: https://www.hackerrank.com/challenges/arrays-introduction/problem
+
+9.
+
 # October 18
 Summer SEMs: https://noi.ph/tama-2023-practice-problems/ (Problem C)
 
