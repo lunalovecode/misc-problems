@@ -1,3 +1,29 @@
+# October 24
+Circular Array Rotation: https://www.hackerrank.com/challenges/circular-array-rotation/problem
+
+Vector Sort: https://www.hackerrank.com/challenges/vector-sort/problem
+
+Pointer: https://www.hackerrank.com/challenges/c-tutorial-pointer/problem
+
+7 problems.
+
+# October 23
+Equalize the Array: https://www.hackerrank.com/challenges/equality-in-a-array/problem
+
+4 problems and a sense of dread.
+
+# October 21
+Caesar Cipher: https://www.hackerrank.com/challenges/caesar-cipher-1/problem
+
+Apple and Orange: https://www.hackerrank.com/challenges/apple-and-orange/problem
+
+3 problems.
+
+# October 20 (Week 12 start)
+Strings: https://www.hackerrank.com/challenges/c-tutorial-strings/problem
+
+1 problem and a subtask for Problem A of TAMa.
+
 # October 19
 Arrays Introduction: https://www.hackerrank.com/challenges/arrays-introduction/problem
 
@@ -22,7 +48,7 @@ Functions: https://www.hackerrank.com/challenges/c-tutorial-functions/problem
 
 I got sick, so my brain isn't braining. But anyway, that's 6 problems!
 
-# October 13
+# October 13 (Week 11 start)
 Baby's first C++ programs :D
 
 Say "Hello, World!" With C++ :https://www.hackerrank.com/challenges/cpp-hello-world/problem
