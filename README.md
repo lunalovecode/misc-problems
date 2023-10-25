@@ -1,3 +1,14 @@
+# October 25
+Vector Erase: https://www.hackerrank.com/challenges/vector-erase/problem
+
+A Coding Problem: https://codeforces.com/group/Sw3sdIlMPV/contest/398776/problem/H
+
+Sinister Six: https://codeforces.com/group/Sw3sdIlMPV/contest/398776/problem/G
+
+Today I learned the difference between scanf/printf and cin/cout.
+
+10 problems!
+
 # October 24
 Circular Array Rotation: https://www.hackerrank.com/challenges/circular-array-rotation/problem
 
