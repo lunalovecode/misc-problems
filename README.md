@@ -1,3 +1,14 @@
+# October 26
+Nate and Actual 3D Girls: https://codeforces.com/group/Sw3sdIlMPV/contest/264681/problem/I
+
+Lucky Sevens: https://codeforces.com/group/Sw3sdIlMPV/contest/398776/problem/F
+
+Flower Counter: https://codeforces.com/group/Sw3sdIlMPV/contest/398776/problem/E
+
+Flower Swapper: https://codeforces.com/group/Sw3sdIlMPV/contest/398776/problem/D
+
+14 problems! 🎉🎉🎉
+
 # October 25
 Vector Erase: https://www.hackerrank.com/challenges/vector-erase/problem
 
