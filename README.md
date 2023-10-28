@@ -1,3 +1,12 @@
+# October 28
+Flower Adder: https://codeforces.com/group/Sw3sdIlMPV/contest/398776/problem/C
+
+Flower Accessor: https://codeforces.com/group/Sw3sdIlMPV/contest/398776/problem/B
+
+Repeated Peacekeeper: https://codeforces.com/group/Sw3sdIlMPV/contest/398776/problem/A
+
+3 problems.
+
 # October 26
 Nate and Actual 3D Girls: https://codeforces.com/group/Sw3sdIlMPV/contest/264681/problem/I
 
