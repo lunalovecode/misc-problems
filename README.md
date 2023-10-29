@@ -1,3 +1,12 @@
+# October 29
+Variable Sized Arrays: https://www.hackerrank.com/challenges/variable-sized-arrays/problem
+
+Lower Bound: https://www.hackerrank.com/challenges/cpp-lower-bound/problem
+
+Sets: https://www.hackerrank.com/challenges/cpp-sets/problem
+
+6 problems.
+
 # October 28
 Flower Adder: https://codeforces.com/group/Sw3sdIlMPV/contest/398776/problem/C
 
