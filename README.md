@@ -1,3 +1,14 @@
+# October 31
+Structs: https://www.hackerrank.com/challenges/c-tutorial-struct/problem
+
+Class: https://www.hackerrank.com/challenges/c-tutorial-class/problem
+
+Inheritance Introduction: https://www.hackerrank.com/challenges/inheritance-introduction/problem
+
+9 problems! Merry early Christmas!
+
+Oh, and happy Halloween! Nearly forgot about that.
+
 # October 29
 Variable Sized Arrays: https://www.hackerrank.com/challenges/variable-sized-arrays/problem
 
