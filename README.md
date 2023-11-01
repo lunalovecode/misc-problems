@@ -1,3 +1,12 @@
+# November 1
+Rectangle Area: https://www.hackerrank.com/challenges/rectangle-area/problem
+
+Morning: https://codeforces.com/contest/1883/problem/A
+
+Multi Level Inheritance: https://www.hackerrank.com/challenges/multi-level-inheritance-cpp/problem
+
+12 problems.
+
 # October 31
 Structs: https://www.hackerrank.com/challenges/c-tutorial-struct/problem
 
