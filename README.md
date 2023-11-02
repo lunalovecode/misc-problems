@@ -1,3 +1,10 @@
+# November 2
+Matching Specific String: https://www.hackerrank.com/challenges/matching-specific-string/problem
+
+Matching Anything But a New Line: https://www.hackerrank.com/challenges/matching-anything-but-new-line/problem
+
+14 problems! 🎉🎉🎉
+
 # November 1
 Rectangle Area: https://www.hackerrank.com/challenges/rectangle-area/problem
 
