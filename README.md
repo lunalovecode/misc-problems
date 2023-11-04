@@ -1,3 +1,21 @@
+# November 4
+Alternative Matching: https://www.hackerrank.com/challenges/alternative-matching/problem
+
+Matching Word: https://www.hackerrank.com/challenges/matching-word-non-word/problem
+
+Matching Specific Characters: https://www.hackerrank.com/challenges/matching-specific-characters/problem
+
+6 problems.
+
+# November 3 (Week 13 start)
+Matching Digits: https://www.hackerrank.com/challenges/matching-digits-non-digit-character/
+
+Matching Start and End: https://www.hackerrank.com/challenges/matching-start-end/problem
+
+Matching Whitespace: https://www.hackerrank.com/challenges/matching-whitespace-non-whitespace-character
+
+3 problems.
+
 # November 2
 Matching Specific String: https://www.hackerrank.com/challenges/matching-specific-string/problem
 
