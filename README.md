@@ -1,3 +1,14 @@
+# November 5
+Excluding Specific Characters: https://www.hackerrank.com/challenges/excluding-specific-characters/problem
+
+ab: https://atcoder.jp/contests/abc327/tasks/abc327_a
+
+Number Place: https://atcoder.jp/contests/abc327/tasks/abc327_c
+
+A^A (A to the power of A): https://atcoder.jp/contests/abc327/tasks/abc327_c
+
+10 problems!
+
 # November 4
 Alternative Matching: https://www.hackerrank.com/challenges/alternative-matching/problem
 
