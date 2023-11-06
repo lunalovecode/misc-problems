@@ -1,3 +1,12 @@
+# November 6
+2UP3DOWN: https://atcoder.jp/contests/abc326/tasks/abc326_a
+
+326-like Numbers: https://atcoder.jp/contests/abc326/tasks/abc326_b
+
+Classes and Objects: https://www.hackerrank.com/challenges/classes-objects/problem
+
+13 problems!
+
 # November 5
 Excluding Specific Characters: https://www.hackerrank.com/challenges/excluding-specific-characters/problem
 
@@ -5,7 +14,7 @@ ab: https://atcoder.jp/contests/abc327/tasks/abc327_a
 
 Number Place: https://atcoder.jp/contests/abc327/tasks/abc327_c
 
-A^A (A to the power of A): https://atcoder.jp/contests/abc327/tasks/abc327_c
+A^A (A to the power of A): https://atcoder.jp/contests/abc327/tasks/abc327_b
 
 10 problems!
 
