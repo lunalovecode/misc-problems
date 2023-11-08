@@ -1,3 +1,15 @@
+# November 8
+Weak Beats: https://atcoder.jp/contests/abc323/tasks/abc323_a
+
+...I don't want to talk about how long it took me.
+
+Anyway, 16 problems! Woohoo! 🎉🎉🎉
+
+# November 7
+Same: https://atcoder.jp/contests/abc324/tasks/abc324_a
+
+Takahashi san: https://atcoder.jp/contests/abc325/tasks/abc325_a
+
 # November 6
 2UP3DOWN: https://atcoder.jp/contests/abc326/tasks/abc326_a
 
