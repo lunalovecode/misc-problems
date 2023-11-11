@@ -1,4 +1,15 @@
-# November 9
+# November 11
+Happy Birthday!: https://atcoder.jp/contests/abc100/tasks/abc100_a
+
+Problem Letters: https://codeforces.com/group/cRJbcAFEwS/contest/485694/problem/A
+
+Problem Statistics: https://codeforces.com/group/cRJbcAFEwS/contest/485694/problem/B
+
+Rankings Order: https://codeforces.com/group/cRJbcAFEwS/contest/485694/problem/C
+
+7 problems!
+
+# November 10
 Round-Robin Tournament: https://atcoder.jp/contests/abc323/tasks/abc323_b
 
 Prefix and Suffix: https://atcoder.jp/contests/abc322/tasks/abc322_b
