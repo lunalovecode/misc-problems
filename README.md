@@ -1,3 +1,14 @@
+# November 12
+Rankings Search: https://codeforces.com/group/cRJbcAFEwS/contest/485694/problem/D
+
+I heavily relied on the fact that the rankings were given in order.
+
+200th ABC-200: https://atcoder.jp/contests/abc200/tasks/abc200_b
+
+Sum Square Difference: https://projecteuler.net/problem=6
+
+10 problems!
+
 # November 11
 Happy Birthday!: https://atcoder.jp/contests/abc100/tasks/abc100_a
 
