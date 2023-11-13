@@ -1,3 +1,14 @@
+# November 13
+Entrance Examination: https://atcoder.jp/contests/abc117/tasks/abc117_a
+
+"I got isekai'd into another world! Oh, wait, no, I can go between both worlds whenever I like!" (Should I stop doing non-serious commentary like this?)
+
+Not Too Hard: https://atcoder.jp/contests/abc328/tasks/abc328_a
+
+Still TBD: https://atcoder.jp/contests/abc119/tasks/abc119_a
+
+13 problems!
+
 # November 12
 Rankings Search: https://codeforces.com/group/cRJbcAFEwS/contest/485694/problem/D
 
