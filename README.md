@@ -1,3 +1,12 @@
+# November 14
+Digital Gifts: https://atcoder.jp/contests/abc119/tasks/abc119_b
+
+Right Triangle: https://atcoder.jp/contests/abc116/tasks/abc116_a
+
+Collatz Problem: https://atcoder.jp/contests/abc116/tasks/abc116_b
+
+16 problems! 🎉🎉🎉
+
 # November 13
 Entrance Examination: https://atcoder.jp/contests/abc117/tasks/abc117_a
 
