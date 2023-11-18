@@ -1,3 +1,19 @@
+# November 18
+Christmas Bonus: https://codeforces.com/group/Sw3sdIlMPV/contest/359189/problem/3K
+
+After 2 years, I finally managed to solve it!
+
+Save the Prisoner!: https://www.hackerrank.com/challenges/save-the-prisoner/problem
+
+Game With Integers: https://codeforces.com/contest/1899/problem/A
+
+4 problems. Hopefully I can still make the quota...
+
+# November 17
+Maps-STL: https://www.hackerrank.com/challenges/cpp-maps/problem
+
+1 problem. Great start.
+
 # November 14
 Digital Gifts: https://atcoder.jp/contests/abc119/tasks/abc119_b
 
