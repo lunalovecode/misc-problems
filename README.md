@@ -1,3 +1,8 @@
+# November 21
+Chemistry: https://codeforces.com/contest/1883/problem/B
+
+5 problems.
+
 # November 18
 Christmas Bonus: https://codeforces.com/group/Sw3sdIlMPV/contest/359189/problem/3K
 

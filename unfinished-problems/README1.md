@@ -1,6 +1,3 @@
-# Chemistry
-https://codeforces.com/contest/1883/problem/B
-
 # T-Primes
 https://codeforces.com/problemset/problem/230/B
 
