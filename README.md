@@ -1,3 +1,16 @@
+# December 1 (Week 16 start)
+Nested Lists: https://www.hackerrank.com/challenges/nested-list/problem
+
+Nested. Lists. It's in the name of the problem. I don't know why my previous code used a dictionary.
+
+Any or All: https://www.hackerrank.com/challenges/any-or-all/problem
+
+Is this what code golfing is about?
+
+Calendar Module: https://www.hackerrank.com/challenges/calendar-module/problem
+
+3 problems.
+
 # November 21
 Chemistry: https://codeforces.com/contest/1883/problem/B
 
@@ -14,7 +27,7 @@ Game With Integers: https://codeforces.com/contest/1899/problem/A
 
 4 problems. Hopefully I can still make the quota...
 
-# November 17
+# November 17 (Week 15 start)
 Maps-STL: https://www.hackerrank.com/challenges/cpp-maps/problem
 
 1 problem. Great start.
@@ -61,7 +74,7 @@ Rankings Order: https://codeforces.com/group/cRJbcAFEwS/contest/485694/problem/C
 
 7 problems!
 
-# November 10
+# November 10 (Week 14 start)
 Round-Robin Tournament: https://atcoder.jp/contests/abc323/tasks/abc323_b
 
 Prefix and Suffix: https://atcoder.jp/contests/abc322/tasks/abc322_b
