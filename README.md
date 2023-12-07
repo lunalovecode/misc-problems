@@ -1,3 +1,24 @@
+# December 7
+Trebuchet?! (Parts 1 and 2): https://adventofcode.com/2023/day/1
+
+On the ~~1st~~7th day of Codemas, Advent of Code gave to me...
+
+...A solution I wrote with a (probably) unnecessary number of loops,
+
+And a 6th problem out of 16 🙃
+
+~~Part 2 made me want to sit in a trebuchet and fling myself into the sun.~~
+
+# December 5
+Counting Passes: https://atcoder.jp/contests/abc330/tasks/abc330_a
+
+5 problems.
+
+# December 4
+Tomorrow: https://atcoder.jp/contests/abc331/tasks/abc331_a
+
+4 problems. Not looking too good.
+
 # December 1 (Week 16 start)
 Nested Lists: https://www.hackerrank.com/challenges/nested-list/problem
 
