@@ -1,3 +1,12 @@
+# December 8 (Week 17 start)
+Cube Conundrum: https://adventofcode.com/2023/day/2
+
+Well, that was easy. Too easy...
+
+Rook: https://codeforces.com/contest/1907/problem/A
+
+2 problems to start the week.
+
 # December 7
 Trebuchet?! (Parts 1 and 2): https://adventofcode.com/2023/day/1
 
