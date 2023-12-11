@@ -1,3 +1,28 @@
+# December 11
+Online Shopping: https://atcoder.jp/contests/abc332/tasks/abc332_a
+
+Glass and Mug: https://atcoder.jp/contests/abc332/tasks/abc332_b
+
+Today I learned that AtCoder has merch.
+
+8 problems!
+
+# December 10
+Scratchcards (Part 1): https://adventofcode.com/2023/day/4
+
+Does this count?
+
+Next: https://atcoder.jp/contests/abc329/tasks/abc329_b
+
+Spread: https://atcoder.jp/contests/abc329/tasks/abc329_a
+
+5 or 6 problems.
+
+# December 9
+Map and Lambda: https://www.hackerrank.com/challenges/map-and-lambda-expression/problem
+
+3 problems.
+
 # December 8 (Week 17 start)
 Cube Conundrum: https://adventofcode.com/2023/day/2
 
