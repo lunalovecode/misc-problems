@@ -1,3 +1,16 @@
+# December 16 (Week 18)
+Guess the Number: https://codeforces.com/gym/101021/problem/1
+
+1 problem.
+
+# December 14
+B +/- A: https://atcoder.jp/contests/abc118/tasks/abc118_a
+
+# December 13
+Pak Ganern: https://www.hackerrank.com/contests/noi-ph-practice-page/challenges/pak-ganern/problem
+
+Does "Custom checker Failed: Success" count as a success?
+
 # December 11
 Online Shopping: https://atcoder.jp/contests/abc332/tasks/abc332_a
 
