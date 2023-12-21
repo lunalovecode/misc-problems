@@ -1,3 +1,22 @@
+# December 21
+Merging Communities: https://www.hackerrank.com/challenges/merging-communities/problem
+
+# December 20
+Dijkstra?: https://codeforces.com/problemset/problem/20/C
+
+The first problem I encountered where implementation details matter. I tried submitting a version of my code where each vertex was represented as a list instead of a tuple, and it got Time Limit Exceeded.
+
+Frog 1: https://atcoder.jp/contests/dp/tasks/dp_a
+
+Frog 2: https://atcoder.jp/contests/dp/tasks/dp_b
+
+Dynamic FROGramming!
+
+# December 18
+Counting Roads: https://atcoder.jp/contests/abc061/tasks/abc061_b
+
+I had solved this in Python using neighbor lists, so I solved it in C++ using a neighbor table!
+
 # December 16 (Week 18)
 Guess the Number: https://codeforces.com/gym/101021/problem/1
 
