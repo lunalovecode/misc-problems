@@ -1,3 +1,11 @@
+# December 23
+Caught in Candy: https://codeforces.com/group/Sw3sdIlMPV/contest/360239/problem/C
+
+# December 22 (Week 19 start)
+Funny Sequence: https://codeforces.com/group/Sw3sdIlMPV/contest/360239/problem/F
+
+I had tried solving this in JavaScript, but I only got 70 points. I did the exact same thing in my JavaScript code but in Python (technically PyPy), and I got the full 100. Moral of the story: submit solutions in Python.
+
 # December 21
 Merging Communities: https://www.hackerrank.com/challenges/merging-communities/problem
 
