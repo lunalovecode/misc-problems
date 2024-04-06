@@ -56,3 +56,9 @@ https://codeforces.com/contest/1790/problem/C
 
 # Exponentiation
 https://cses.fi/problemset/task/1095/
+
+# Rudolf and 121
+https://codeforces.com/contest/1941/problem/B
+
+# Rudolf and the Ugly String
+https://codeforces.com/contest/1941/problem/C
