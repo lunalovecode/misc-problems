@@ -1,3 +1,11 @@
+# April 6
+Divisible: https://atcoder.jp/contests/abc347/tasks/abc347_a
+
+Substring: https://atcoder.jp/contests/abc347/tasks/abc347_a
+
+# March 29
+Rudolf and the Ticket: https://codeforces.com/contest/1941/problem/A
+
 # December 23
 Caught in Candy: https://codeforces.com/group/Sw3sdIlMPV/contest/360239/problem/C
 
