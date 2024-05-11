@@ -1,7 +1,17 @@
+# May 11
+AtCoder Line: https://atcoder.jp/contests/abc352/tasks/abc352_a
+
+Typing: https://atcoder.jp/contests/abc352/tasks/abc352_b
+
+# May 4
+The Bottom Of the Ninth: https://atcoder.jp/contests/abc351/tasks/abc351_a
+
+Spot the Difference: https://atcoder.jp/contests/abc351/tasks/abc351_b
+
 # April 6
 Divisible: https://atcoder.jp/contests/abc347/tasks/abc347_a
 
-Substring: https://atcoder.jp/contests/abc347/tasks/abc347_a
+Substring: https://atcoder.jp/contests/abc347/tasks/abc347_b
 
 # March 29
 Rudolf and the Ticket: https://codeforces.com/contest/1941/problem/A
