@@ -1,3 +1,6 @@
+# May 18
+Yogurt Sale: https://codeforces.com/contest/1955/problem/A
+
 # May 11
 AtCoder Line: https://atcoder.jp/contests/abc352/tasks/abc352_a
 
